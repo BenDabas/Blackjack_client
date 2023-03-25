@@ -1,0 +1,12 @@
+.customContainer {
+  display: inline-block;
+  overflow: hidden;
+  width: 350px;
+  height: 350px;
+  
+}
+
+.cardContainer {
+  transform-origin: top left;
+  transform: scale(0.5); 
+}
